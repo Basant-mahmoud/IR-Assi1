@@ -1,6 +1,4 @@
 IS344 Information Retrieval 
-Homework  #1 
-Due March 29 th   2024 [5 Marks] 
 Complete the given project that builds an inverted index for the text files in a given directory and 
 accept a number of keywords in a query and return the files that contains all keywords using the 
 inverted index.
